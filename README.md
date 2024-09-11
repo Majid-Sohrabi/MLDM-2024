@@ -6,7 +6,7 @@ We will collect your home assignment solutions through private github repositori
 
 #	File	Deadline
 
-| 01 |  |  |
+| 01 | https://github.com/Majid-Sohrabi/MLDM-2024/blob/main/01-intro/DataHandling_HW.ipynb | 23 October 2024 23:59  |
 | -- | ------------------------| ------- |
 | 02 |  |  |
 
