@@ -12,6 +12,7 @@ We will collect your home assignment solutions through private github repositori
 | 03 | [Classification_HW.ipynb](https://github.com/Majid-Sohrabi/MLDM-2024/blob/main/03-linear-classification/Classification_HW.ipynb) | 16 October 2024 23:59 |
 | 04 | [Regularization_HW.ipynb](https://github.com/Majid-Sohrabi/MLDM-2024/blob/main/04-regularization/Regularization_HW.ipynb) | 16 October 2024 23:59 |
 | 05 | [QualityMetrics_HW.ipynb](https://github.com/Majid-Sohrabi/MLDM-2024/blob/main/06-Model-Evaluation/QualityMetrics_HW.ipynb) | 23 October 2024 23:59 |
+| 06 | [DecisionTrees_HW.ipynb](https://github.com/Majid-Sohrabi/MLDM-2024/blob/main/07-trees/DecisionTrees_HW.ipynb)| 27 November 2024 23:59 |
 
 -1 is considered for each day late submission on respective HW. (if the hw is out of 10 then the hw grade will be automatically 0 for delay > 9 days)
 
